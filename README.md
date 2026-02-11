@@ -1,2 +1,2 @@
-# my-firts-project.
-This is my first project on GitHub.
+# About my firts project on Github.
+Este proyecto es una macro sencilla que desarrolle en el año de 2025, es un mini programa que se ejecuta atraves de la consola de windows creado en c++, como se indica se puede usar para crear macros sencillas que se repita por ejemplo una tecla durante cierto tiempo que elija el usuario, y al ser por consola reduce bastante consumo comparado con un programa especifico de macros, eso si esta pensada para un uso muy basico y sencillo, lo cual hace que no tenga opciones mas avanzadas como un sistema de perfiles o guardado que posean otros programas.
